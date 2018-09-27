@@ -4,8 +4,8 @@
 #### proxypool为代理池包，核心代码来源于百度
 #### dateview是数据可视化的处理，用到了pyecharts包，分析了各个高校的宣讲会数量
 ![places](./res/places.png)
-### 爬出的数据存储到MongoDB，导出后的excel文件在docs文件夹里，按照宣讲时间排序
-![xuanjiang](./docs/xuanjiang.png)
+### 爬出的数据存储到MongoDB，导出后的excel文件在docs文件夹里，按照宣讲时间排序,一共3677条数据
+![xuanjiang](./res/haitou.png)
 
 ### 环境: python3.7
 依赖包: pyecharts, pymongo
