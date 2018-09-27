@@ -10,7 +10,7 @@
 ##### 共截取了公司，时间，宣讲大学，地点，以及页面url五个字段
 ![xuanjiang](./res/haitou.png)  
 
-### 环境: python3.7
+### 环境: python3.7 scrapy1.0.1
 依赖包: pyecharts, pymongo
 
 ### 运行:
